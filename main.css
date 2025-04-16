@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'roboto', sans-serif;
+}
+
+body {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.add {
+    text-decoration: line-through;
+    color: rgb(87, 165, 97)
+    ;}
+
+h2 {
+    font-size: 2rem;
+    margin: 1rem 0;
+    text-align: center;
+}
+
+form, ul , li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 10px;
+    
+    }
+
+    button {
+        background-color: #dddfdd;
+        
+    }
